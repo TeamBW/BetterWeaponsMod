@@ -1,4 +1,4 @@
 BetterWeaponsMod
 ================
 
-Upgrade you weapons!
+Upgrade your weapons!
