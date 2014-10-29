@@ -1,0 +1,4 @@
+BetterWeaponsMod
+================
+
+Upgrade you weapons!
