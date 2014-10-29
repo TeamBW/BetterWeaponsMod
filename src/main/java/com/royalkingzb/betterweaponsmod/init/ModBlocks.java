@@ -1,6 +1,6 @@
-package com.royalkingzb.betterweaponsmod;
+package com.royalkingzb.betterweaponsmod.init;
 
-import com.chaka.betterstorage.reference.Reference;
+import com.royalkingzb.betterweaponsmod.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 @GameRegistry.ObjectHolder(Reference.MOD_ID)

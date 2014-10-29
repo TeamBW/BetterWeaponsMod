@@ -1,5 +1,5 @@
-package com.royalkingzb.betterweaponsmod;
+package com.royalkingzb.betterweaponsmod.proxy;
+
 
 public interface IProxy {
-
 }

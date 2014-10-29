@@ -1,6 +1,6 @@
-package com.royalkingzb.betterweaponsmod;
+package com.royalkingzb.betterweaponsmod.utility;
 
-import com.chaka.betterstorage.reference.Reference;
+import com.royalkingzb.betterweaponsmod.reference.Reference;
 import cpw.mods.fml.common.FMLLog;
 import org.apache.logging.log4j.Level;
 

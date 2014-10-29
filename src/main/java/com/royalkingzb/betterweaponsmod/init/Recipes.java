@@ -1,4 +1,4 @@
-package com.royalkingzb.betterweaponsmod;
+package com.royalkingzb.betterweaponsmod.init;
 
 public class Recipes {
 

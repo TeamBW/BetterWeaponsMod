@@ -1,7 +1,7 @@
-package com.royalkingzb.betterweaponsmod;
+package com.royalkingzb.betterweaponsmod.proxy;
 
-import cpw.mods.fml.client.registry.ClientRegistry;
 
 public class ClientProxy extends CommonProxy {
+
 
 }

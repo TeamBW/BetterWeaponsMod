@@ -1,6 +1,6 @@
-package com.royalkingzb.betterweaponsmod;
+package com.royalkingzb.betterweaponsmod.handler;
 
-import com.chaka.betterstorage.reference.Reference;
+import com.royalkingzb.betterweaponsmod.reference.Reference;
 import cpw.mods.fml.client.event.ConfigChangedEvent;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.common.config.Configuration;
