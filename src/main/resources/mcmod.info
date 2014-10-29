@@ -1,0 +1,21 @@
+[
+{
+"modid": "BetterStorage-CE",
+"name": "BetterStorage-CE",
+"description": "A Better Way TO Store Your Items",
+"version": "1.7.10-1.0",
+"mcversion": "1.7.10",
+"url": "http://backwoodsmod.2fh.co/betterstorage",
+"updateUrl": "",
+"authorList": [
+"Chaka15205","Christophernjsp"
+],
+"credits": "To all my Patrons.",
+"logoFile": "",
+"screenshots": [
+],
+"parent":"",
+"dependencies": [
+]
+}
+]
