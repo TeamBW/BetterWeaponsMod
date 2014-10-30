@@ -1,8 +1,8 @@
 package com.royalkingzb.betterweaponsmod.item;
 
-public class ItemReiforcedDiamond extends ItemBW {
+public class ItemReinforcedDiamond extends ItemBW {
 
-    public ItemReiforcedDiamond() {
+    public ItemReinforcedDiamond() {
 
         super();
         this.setUnlocalizedName("reinforcedDiamond");
