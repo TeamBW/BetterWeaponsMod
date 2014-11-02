@@ -1,33 +1,42 @@
-[21:09:05] [main/INFO]: Setting user: Player968
-[21:09:07] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:09:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Better Weapons Mod
-[21:09:17] [Sound Library Loader/INFO]: Sound engine started
-[21:09:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:09:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:09:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Better Weapons Mod
-[21:09:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:09:25] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:09:26] [Sound Library Loader/INFO]: Sound engine started
-[21:09:35] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[21:09:35] [Server thread/INFO]: Generating keypair
-[21:09:35] [Server thread/INFO]: Preparing start region for level 0
-[21:09:36] [Server thread/INFO]: Preparing spawn area: 62%
-[21:09:37] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:09:38] [Server thread/INFO]: Player968[local:E:6075b05d] logged in with entity id 241 at (-1541.5416684631282, 4.0, -4.6334274177671695)
-[21:09:38] [Server thread/INFO]: Player968 joined the game
-[21:09:53] [Server thread/INFO]: Player968 has just earned the achievement [Taking Inventory]
-[21:09:53] [Client thread/INFO]: [CHAT] Player968 has just earned the achievement [Taking Inventory]
-[21:10:33] [Client thread/INFO]: [CHAT] BetterWeaponsMod:reinforcedDiamondMk2, BetterWeaponsMod:reinforcedDiamond
-[21:10:35] [Server thread/INFO]: [Player968: Given [item.betterweaponsmod:reinforcedDiamondMk2.name] * 1 to Player968]
-[21:10:35] [Client thread/INFO]: [CHAT] Given [item.betterweaponsmod:reinforcedDiamondMk2.name] * 1 to Player968
-[21:11:04] [Server thread/INFO]: Saving and pausing game...
-[21:11:04] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
-[21:11:04] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
-[21:11:04] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
-[21:11:04] [Server thread/INFO]: Stopping server
-[21:11:04] [Server thread/INFO]: Saving players
-[21:11:04] [Server thread/INFO]: Saving worlds
-[21:11:04] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
-[21:11:04] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
-[21:11:04] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
-[21:11:09] [Client thread/INFO]: Stopping!
+[18:00:52] [main/INFO]: Setting user: Player906
+[18:00:56] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:01:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Weapons Mod
+[18:01:07] [Sound Library Loader/INFO]: Sound engine started
+[18:01:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:01:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:01:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Better Weapons Mod
+[18:01:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:01:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:01:16] [Sound Library Loader/INFO]: Sound engine started
+[18:01:28] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:01:28] [Server thread/INFO]: Generating keypair
+[18:01:29] [Server thread/INFO]: Preparing start region for level 0
+[18:01:30] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:01:31] [Server thread/INFO]: Player906[local:E:d39c2238] logged in with entity id 177 at (-1450.720739586602, 5.0, -258.30000001192093)
+[18:01:31] [Server thread/INFO]: Player906 joined the game
+[18:01:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2606ms behind, skipping 52 tick(s)
+[18:01:40] [Server thread/INFO]: Player906 has just earned the achievement [Taking Inventory]
+[18:01:40] [Client thread/INFO]: [CHAT] Player906 has just earned the achievement [Taking Inventory]
+[18:02:26] [Server thread/INFO]: [Player906: Given [Reinforced Diamond Mk3] * ∞ to Player906]
+[18:02:26] [Client thread/INFO]: [CHAT] Given [Reinforced Diamond Mk3] * ∞ to Player906
+[18:02:26] [Server thread/INFO]: [Player906: Given [Reinforced Diamond Mk4] * ∞ to Player906]
+[18:02:26] [Client thread/INFO]: [CHAT] Given [Reinforced Diamond Mk4] * ∞ to Player906
+[18:02:27] [Server thread/INFO]: [Player906: Given [Reinforced Diamond Mk5] * ∞ to Player906]
+[18:02:27] [Client thread/INFO]: [CHAT] Given [Reinforced Diamond Mk5] * ∞ to Player906
+[18:02:35] [Server thread/INFO]: [Player906: Given [Reinforced Diamond Mk3] * 64 to Player906]
+[18:02:35] [Client thread/INFO]: [CHAT] Given [Reinforced Diamond Mk3] * 64 to Player906
+[18:02:37] [Server thread/INFO]: [Player906: Given [Reinforced Diamond Mk4] * 64 to Player906]
+[18:02:37] [Client thread/INFO]: [CHAT] Given [Reinforced Diamond Mk4] * 64 to Player906
+[18:02:38] [Server thread/INFO]: [Player906: Given [Reinforced Diamond Mk5] * 64 to Player906]
+[18:02:38] [Client thread/INFO]: [CHAT] Given [Reinforced Diamond Mk5] * 64 to Player906
+[18:03:17] [Server thread/INFO]: Saving and pausing game...
+[18:03:17] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[18:03:17] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[18:03:18] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[18:03:18] [Server thread/INFO]: Stopping server
+[18:03:18] [Server thread/INFO]: Saving players
+[18:03:18] [Server thread/INFO]: Saving worlds
+[18:03:18] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[18:03:18] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[18:03:18] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[18:03:21] [Client thread/INFO]: Stopping!

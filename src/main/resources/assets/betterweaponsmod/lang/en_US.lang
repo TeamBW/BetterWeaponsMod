@@ -1,14 +1,30 @@
 # Items
 
-item.betterweaponsmod:reiforcedDiamond.name=Reinforced Diamond
-item.betterweaponsmod:reiforcedDiamondMk2.name=Reinforced Diamond Mk2
+item.betterweaponsmod:reinforcedDiamond.name=Reinforced Diamond
+item.betterweaponsmod:reinforcedDiamondMk2.name=Reinforced Diamond Mk2
+item.betterweaponsmod:reinforcedDiamondMk3.name=Reinforced Diamond Mk3
+item.betterweaponsmod:reinforcedDiamondMk4.name=Reinforced Diamond Mk4
+item.betterweaponsmod:reinforcedDiamondMk5.name=Reinforced Diamond Mk5
+item.betterweaponsmod:reinforcedDiamondSword.name=Reinforced Diamond Sword
+item.betterweaponsmod:reinforcedDiamondPickaxe.name=Reinforced Diamond Pickaxe
+item.betterweaponsmod:reinforcedDiamondAxe.name=Reinforced Diamond Axe
+item.betterweaponsmod:reinforcedDiamondShovel.name=Reinforced Diamond Shovel
+item.betterweaponsmod:reinforcedDiamondHoe.name=Reinforced Diamond Hoe
 
 # Blocks
+
+tile.betterweaponsmod:reinforcedDiamondBlock.name=Block Of Reinforced Diamond
+tile.betterweaponsmod:reinforcedDiamondBlockMk2.name=Block Of Reinforced Diamond Mk2
+tile.betterweaponsmod:reinforcedDiamondBlockMk3.name=Block Of Reinforced Diamond Mk3
+tile.betterweaponsmod:reinforcedDiamondBlockMk4.name=Block Of Reinforced Diamond Mk4
+tile.betterweaponsmod:reinforcedDiamondBlockMk5.name=Block Of Reinforced Diamond Mk5
 
 # WIP Stuff
 
 # Test Things
 
 # Creative Tabs
+
+itemGroup.betterweaponsmod=BetterWeaponsMod
 
 # Keys

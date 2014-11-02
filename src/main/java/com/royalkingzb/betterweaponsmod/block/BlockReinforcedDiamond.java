@@ -1,7 +1,14 @@
 package com.royalkingzb.betterweaponsmod.block;
 
-/**
- * Created by Joshua on 10/29/2014.
- */
-public class BlockReinforcedDiamond {
+import net.minecraft.block.material.Material;
+
+public class BlockReinforcedDiamond extends BlockBW {
+
+    public BlockReinforcedDiamond() {
+
+        super(Material.iron);
+        this.setBlockName("reinforcedDiamondBlock");
+        this.setStepSound(soundTypeMetal);
+        this.setHardness(5.0F);
+    }
 }
